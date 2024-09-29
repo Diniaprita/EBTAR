@@ -1,2 +1,2 @@
 # EBTAR
-Web interaktif
+Website
